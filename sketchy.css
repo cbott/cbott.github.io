@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+div{
+    height:10em;
+    width:10em;
+    border: 8px solid fuchsia;
+    background-color:honeydew;
+    box-shadow: 2px 2px 2px #aaaaaa;
+    font-size:50px;
+    color:blue;
+    font-family:sans-serif;
+    margin:auto;
+    text-align:center;
+}
+img{
+    width:220px;  
+	padding:10px; 
+}
+a{
+	text-decoration:none;
+	color:blue;
+	font-size:70px;
+}
+#fine-print{
+	text-align:right;
+	margin-top:10px;
+	color:grey;
+	font-size:9px;
+}
+
