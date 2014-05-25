@@ -2,23 +2,28 @@
 	color:chocolate;
 }
 a{
-	color:darkcyan !important;
+	color:black !important;
 	font-weight:bold;
+	border-right:1px solid gray;
+}
+#home{
+	border-left:1px solid gray;
 }
 a:hover{
-	color:#001b1b !important;	
+	text-decoration:underline !important;	
 }
 
 .content{
 	background-color:white !important;
-	position:right !important;
+	position:center !important;
 }
 
 .source{
 	border: 2px solid black;
 	background-color:#eda55f;
 	border-radius:5px;
+	padding:10px;
 }
 body{
-	background-color:red;
+	background-color:#efefef;
 }
