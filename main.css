@@ -1,7 +1,7 @@
 #navbar-title{
 	color:chocolate;
 }
-a{
+.navbar a{
 	color:black !important;
 	font-weight:bold;
 	border-right:1px solid gray;
@@ -28,6 +28,7 @@ a:hover{
 	background-color:#f4f4f4;
 	border-bottom:1px solid black;
 	padding:25px;
+	font-family:arial;
 }
 .section td{
 	border:2px solid black;
